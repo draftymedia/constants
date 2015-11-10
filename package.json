@@ -1,0 +1,19 @@
+{
+  "name": "@brudil/drafty-constants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://brudil@github.com/draftymedia/constants.git"
+  },
+  "author": "James Canning <james@jamescanning.com> (http://brudil.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draftymedia/constants/issues"
+  },
+  "homepage": "https://github.com/draftymedia/constants#readme"
+}

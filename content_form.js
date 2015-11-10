@@ -1,0 +1,6 @@
+module.exports = {
+  FORM_ARTICLE: 1,
+  FORM_VIDEO: 2,
+  FORM_INTERACTIVE: 3,
+  FORM_GALLERY: 4
+};
